@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faticoco
 - 👀 I’m interested in learning and working on computer science
 - 🌱 I’m currently learning stack development
-- 💞️ I’m looking to collaborate on anything new
+- 💞️ I’m looking forward to collaborate on anything new
 - 📫 contact me for collabs
 
 <!---
